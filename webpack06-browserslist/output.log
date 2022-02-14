@@ -1,0 +1,21 @@
+➜  webpack06-browserslist git:(master) npx browserslist
+and_chr 98
+and_ff 96
+and_qq 10.4
+and_uc 12.12
+android 98
+baidu 7.12
+chrome 98
+chrome 97
+chrome 96
+edge 98
+firefox 97
+ie 11
+ios_saf 15.2-15.3
+ios_saf 15.0-15.1
+kaios 2.5
+op_mini all
+op_mob 64
+opera 83
+safari 15.2-15.3
+samsung 16.0
