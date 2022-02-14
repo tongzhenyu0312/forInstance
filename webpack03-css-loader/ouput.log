@@ -1,0 +1,17 @@
+➜  webpack03-css-loader git:(master) ✗ npx webpack
+asset main.js 1.38 KiB [emitted] [minimized] (name: main)
+runtime modules 663 bytes 3 modules
+cacheable modules 2.81 KiB
+  modules by path ./src/ 495 bytes
+    ./src/index.js 20 bytes [built] [code generated]
+    ./src/index.css 475 bytes [built] [code generated]
+  modules by path ../node_modules/css-loader/dist/runtime/*.js 2.33 KiB
+    ../node_modules/css-loader/dist/runtime/noSourceMaps.js 64 bytes [built] [code generated]
+    ../node_modules/css-loader/dist/runtime/api.js 2.26 KiB [built] [code generated]
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value.
+Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+webpack 5.68.0 compiled with 1 warning in 351 ms
