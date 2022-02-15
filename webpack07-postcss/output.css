@@ -1,0 +1,7 @@
+div {
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLDRCQUFvQjtFQUFwQix1QkFBb0I7RUFBcEIseUJBQW9CO0VBQXBCLG9CQUFvQjtBQUN0QiIsImZpbGUiOiJvdXRwdXQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiZGl2IHtcbiAgdHJhbnNpdGlvbjogYWxsIDAuNXM7XG59Il19 */
